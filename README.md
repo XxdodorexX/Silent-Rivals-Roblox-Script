@@ -7,8 +7,10 @@ the script information is found on the official discord, if you need suppoort yo
 
 here is the loadstring for the script: loadstring(game:HttpGet("https://raw.githubusercontent.com/KxGOATESQUE/SilentRivals/main/SilentRivals"))() 
 
-here is the key for the script: https://linkvertise.com/1220207/silent-rivals-script
+here is the key for the script:
+https://linkvertise.com/1220207/silent-rivals-script
 
-if you need support or want to buy paid join the discord: https://discord.gg/silenthub
+if you need support or want to buy paid join the discord:
+https://discord.gg/silenthub
 
 more information and updates will be there.
