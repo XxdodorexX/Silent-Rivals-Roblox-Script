@@ -6,7 +6,9 @@ this script uses a key system wich you can get for free or you can buy paid if y
 the script information is found on the official discord, if you need suppoort you can get it there aswell
 
 here is the loadstring for the script: loadstring(game:HttpGet("https://raw.githubusercontent.com/KxGOATESQUE/SilentRivals/main/SilentRivals"))() 
+
 here is the key for the script: https://linkvertise.com/1220207/silent-rivals-script
+
 if you need support or want to buy paid join the discord: https://discord.gg/silenthub
 
 more information and updates will be there.
